@@ -48,6 +48,11 @@ Follow the steps below to set up and run the test automation project using Appiu
     pip install robotframework-appiumlibrary
     ```
 
+   - Alternatively, you can install the packages from the `requirements.txt` file. To do so, run the following command:
+
+     ```bash
+     pip install -r requirements.txt
+     ```
 Ensure you have Python installed in your environment before running the commands.
 
 # Step 4: Run the Project
