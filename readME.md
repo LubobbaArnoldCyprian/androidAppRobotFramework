@@ -60,7 +60,6 @@ Ensure you have Python installed in your environment before running the commands
     robot .\Tests\Login.robot
     ```
 
-The test automation project should now run, utilizing Appium for mobile testing and Robot Framework for test execution. Make sure to adapt the paths and commands according to your project structure and requirements.
 
 
 
